@@ -6,6 +6,9 @@ Merge two PDF documents scanned from a simplex (one sided) scanner. first.pdf + 
 
 This method allows for the user to scan one side (first.pdf), flip the stack and scan the other side (second.pdf).
 
+
 TODO: Ask user for input and output filenames 
+
 TODO: Scan order options / rotate page 
+
 TODO: GUI? TODO: Work on this readme.
